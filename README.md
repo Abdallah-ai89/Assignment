@@ -1,6 +1,6 @@
-1- git clone the repo
-2- install dependence
-3- that's it
+- git clone the repo -
+-install dependence
+- that's it
 
 # npm install express cors
 followed by 
